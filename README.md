@@ -4,6 +4,10 @@ Simple demonstration of a React app that showcases some image in a gallery forma
 
 *This app is bootstrapped with Vite.*
 
+[Live demo](image-gallery-react-beta.vercel.app/)
+
+*This app is deployed using Vercel.*
+
 ## Run locally
 
 ```bash
